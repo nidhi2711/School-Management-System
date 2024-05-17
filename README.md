@@ -1,1 +1,1 @@
-# github-bot
+# School Management System
